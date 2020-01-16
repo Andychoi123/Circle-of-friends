@@ -6,7 +6,7 @@
 
 [](__split__)
 
-### 项目结构
+## 项目结构
 
 - moments.html 页面 HTML
 - css 样式基本样式
@@ -16,11 +16,11 @@
 - readme.md 项目说明文档
 - demo 效果展示图片
 
-### 展示效果
+## 展示效果
 
 ![效果图片](https://github.com/Andychoi123/Circle-of-friends/raw/master/demo/momentDemo1.gif)
 
-### 具体要求
+## 具体要求
 
 ### 1、实现四种消息类型
 
